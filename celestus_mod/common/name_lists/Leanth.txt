@@ -1,5 +1,5 @@
 ﻿### Template
-Melrehn = {
+Leanth = {
 	### SHIPS
 	alias = "MAM5"
 
@@ -10,29 +10,39 @@ Melrehn = {
 		}
 
 		corvette = {
+			Iokahs Tyrem
 		}
 		
 		destroyer = {
+			Kholam
 		}
 		
 		cruiser = {
+			Nahrons Kaomatas
 		}
 		
 		battleship = {
+			Anykio Inoka Elendia Nahéria
 		}
 		
 		science = {
 		}
 		
 		colonizer = {
+			"Vaisseau de colonisation"
 		}
 		
 		constructor = {
+			"Module de construction" "Module de construction MKII"
 		}
 
-		mining_station = { }
+		mining_station = {
+			"Module minier" "Colonie minière" "Raffinerie Mobile" "Relais orbital" "Extracteur Jovien" "Extracteur Tellurique"
+		 }
 		research_station = { }
-		wormhole_station = { }
+		wormhole_station = { 
+			"Rampe de lancement"
+		}
 		#terraform_station = { }
 		observation_station = { }
 		outpost_station = {
@@ -40,9 +50,15 @@ Melrehn = {
 			#sequential_name = "%O% Frontier Outpost"
 		}
 
-		military_station_small = {}
-		military_station_medium = {}
-		military_station_large = {}	
+		military_station_small = {
+			"Module de défense"
+		}
+		military_station_medium = { 
+			"Station de drones" "Plasma mobile"
+		}
+		military_station_large = {
+			"Station de réparation"
+		}	
 	}
 
 	ship_class_names = {
@@ -112,7 +128,7 @@ Melrehn = {
 
 		generic = {
 			names = {
-				Tenebris
+				Léanthia
 			}
 		}
 		
