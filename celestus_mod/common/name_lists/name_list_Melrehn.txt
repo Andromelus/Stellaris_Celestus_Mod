@@ -1,0 +1,193 @@
+﻿### Template
+Melrehn = {
+	### SHIPS
+	alias = "MAM5"
+
+	ship_names = {
+
+		generic = {
+			
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		#terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			#random_names = { }
+			#sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	ship_class_names = {
+		generic = {
+			Il-Koth Daskall Mongath Sipii Narsul Vithar Kermel Saggor Gasna Dirama Bolkoth Erenth Ethill Kushana Joddam Korgas Ismir Centhor Piroc Pulnar Mol-Vikh
+			Ter-Math Ythamm Hessendroc Shoshona
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			
+		}
+		sequential_name = "%O% Armada"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Ground Shield"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% War Guild"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% War Peons"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Fighting Clones"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Robotic Lancers"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Robotic Protectors"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Autonomous Hunters"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Autonomous Guardians"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Warlock Company"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Death Flock"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Star Knights"
+		}
+	}
+		
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Tenebris
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+				Falatir Hephanir Timaphon Listhim Jesslur Yndan Kashnak Bemalon Cognat Limathar Elemano Khebb Tetran Ketrill
+				Rhass Linntyl Haghonon Darmull Ralpakin Campramar Monnobak Hannakon Veltassa Karba Darmug Ghuum Jaffab Thaloth
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Falatir Hephanir Timaphon Listhim Jesslur Yndan Kashnak Bemalon Cognat
+			}
+			
+			regnal_second_names = {
+				d'Vhakk
+			}
+		}
+	}
+}
