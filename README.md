@@ -1,4 +1,5 @@
 **Mod en cours de développement**
+
 **Mod non disponible sur le steam workshop (pour le moment!)**
 
 
@@ -14,3 +15,5 @@ Road map:
 - Création des factions préconfigurées
 - Création d'événements aléatoires relatifs au background Celestus (Ophélia, Cetyn, (Lorks?))
 - Création d'événements de fin de partie relatifs au background de Celestus.
+
+Pour toute contribution, merci de passer par [cette page](https://github.com/Andromelus/Stellaris_Celestus_Mod/issues) afin de tout centraliser, merci!
