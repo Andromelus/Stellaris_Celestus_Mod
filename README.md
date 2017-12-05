@@ -16,5 +16,6 @@ Road map:
 - Création des factions préconfigurées
 - Création d'événements aléatoires relatifs au background Celestus (Ophélia, Cetyn, (Lorks?))
 - Création d'événements de fin de partie relatifs au background de Celestus.
+- Ajout des modèles 3D des vaisseaux (si nous en arrivons là, croisons les doigts!)
 
 Pour toute contribution, merci de passer par [cette page](https://github.com/Andromelus/Stellaris_Celestus_Mod/issues) afin de tout centraliser, merci!
