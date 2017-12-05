@@ -1,5 +1,5 @@
 ﻿### Template
-Ducs = {
+Melrehn = {
 	### SHIPS
 	alias = "MAM5"
 
@@ -10,39 +10,29 @@ Ducs = {
 		}
 
 		corvette = {
-			Inquadia Ontalia
 		}
 		
 		destroyer = {
-			Cyberia
 		}
 		
 		cruiser = {
-			Lanthosia Atoria
 		}
 		
 		battleship = {
-			Calydthiès Ehatia Myhaniar
 		}
 		
 		science = {
 		}
 		
 		colonizer = {
-			"Vaisseau de colonisation"
 		}
 		
 		constructor = {
-			"Module de construction" "Module de contruction MKII"
 		}
 
-		mining_station = { 
-			"Module minier" "Colonie minière" "Raffinerie Mobile" "Relais orbital" "Extracteur Jovien" "Extracteur Tellurique"
-		}
+		mining_station = { }
 		research_station = { }
-		wormhole_station = {
-			"Rampe de lancement"
-		 }
+		wormhole_station = { }
 		#terraform_station = { }
 		observation_station = { }
 		outpost_station = {
@@ -50,15 +40,9 @@ Ducs = {
 			#sequential_name = "%O% Frontier Outpost"
 		}
 
-		military_station_small = {
-			"Module de défense"
-		}
-		military_station_medium = {
-			"Plasma mobile" "Station de drones"
-		}
-		military_station_large = {
-			"Station de réparation"
-		}	
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
 	}
 
 	ship_class_names = {
@@ -128,7 +112,7 @@ Ducs = {
 
 		generic = {
 			names = {
-				PMDUC
+				Tenebris
 			}
 		}
 		
