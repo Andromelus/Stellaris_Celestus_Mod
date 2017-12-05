@@ -11,6 +11,7 @@ L'objectif final est de reprendre le background du jeu afin de l'utiliser sur St
 Road map:
 
 - Création des name_list pour les différents factions (noms de vaisseaux, planètes, dirigeants...)
+  - Noms des planètes: Mis en suspend en attendant la correction du bug d'affiche des noms de planètes dans l'onglet faction ou en attendant que quelqu'un y mette du sien et qu'on m'aide à chopper les noms car j'ai pas envie de me taper tous les systèmes du jeu à la recherche des colonies.
 - Création de nouveaux traits correspondant aux spécificités des faction sur Celestus
 - Création des factions préconfigurées
 - Création d'événements aléatoires relatifs au background Celestus (Ophélia, Cetyn, (Lorks?))
