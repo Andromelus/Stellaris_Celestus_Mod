@@ -1,0 +1,212 @@
+﻿### Template
+Duc = {
+	### SHIPS
+	alias = "MAM5"
+
+	ship_names = {
+
+		generic = {
+			
+		}
+
+		corvette = {
+			Inquadia Ontalia
+ 
+		}
+		
+		destroyer = {
+			Cyberia
+		}
+		
+		cruiser = {
+			Lanthosia Atoria
+		}
+		
+		battleship = {
+			 Calydhiès Ehatia Lux Myhaniar Aldevarr
+		}
+		
+		science = {
+
+		}
+		
+		colonizer = {
+			"Vaisseau de colonisation"
+		}
+		
+		constructor = {
+			"Module de construction" "Module de construction MKII"
+		}
+
+		mining_station = { 
+			"Module minier" "Colonie minière" "Raffinerie Mobile" "Extracteur Jovien" "Extracteur Tellurique"
+		}
+		research_station = { 
+			Technocité
+		}
+		wormhole_station = {
+			"Rampe de lancement"
+		 }
+		#terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			#random_names = { }
+			#sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {
+			"Module de défense"
+		}
+		military_station_medium = { 
+			"Station de drones" "Plasma mobile"
+		}
+		military_station_large = {
+			"Station de réparation"
+		}	
+	}
+
+	ship_class_names = {
+		generic = {
+			Il-Koth Daskall Mongath Sipii Narsul Vithar Kermel Saggor Gasna Dirama Bolkoth Erenth Ethill Kushana Joddam Korgas Ismir Centhor Piroc Pulnar Mol-Vikh
+			Ter-Math Ythamm Hessendroc Shoshona
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			
+		}
+		sequential_name = "%O% Flotte"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Bataillon de gardes"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Bataillon de soldats"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Bataillon de fanatiques"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Bataillon de croisés"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Division de blindés"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Robotic Protectors"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Horde de tripodes"
+		}
+
+		android_defense_army = {
+			sequential_name = "%O% Autonomous Guardians"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Recruteur"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Pacificateur"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Star Knights"
+		}
+	}
+		
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"still need to be defined"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+				"Halar Zhelth Duc d'Antaris" "Duc Detronian" 
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Falatir Hephanir Timaphon Listhim Jesslur Yndan Kashnak Bemalon Cognat
+			}
+			
+			regnal_second_names = {
+				d'Vhakk
+			}
+		}
+	}
+}
